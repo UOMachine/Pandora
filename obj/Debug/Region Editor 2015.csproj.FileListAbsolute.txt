@@ -1,0 +1,15 @@
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\bin\Debug\Region Editor 2015.exe.config
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\bin\Debug\Region Editor 2015.exe
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\bin\Debug\Region Editor 2015.pdb
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\bin\Debug\Ultima.dll
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\obj\Debug\Region Editor 2015.csprojResolveAssemblyReference.cache
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\obj\Debug\Region_Editor.MapViewer.resources
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\obj\Debug\Region_Editor.ModifyRegion.resources
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\obj\Debug\Region_Editor.ModifySpawn.resources
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\obj\Debug\Region_Editor.Properties.Resources.resources
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\obj\Debug\Region_Editor.RegionEditor.resources
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\obj\Debug\Region_Editor.Slider.resources
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\obj\Debug\Region_Editor.SpecifyArea.resources
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\obj\Debug\Region Editor 2015.csproj.GenerateResource.Cache
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\obj\Debug\Region Editor 2015.exe
+D:\UO_Workbench\Region Editor 2015\Region-Editor-2015\obj\Debug\Region Editor 2015.pdb

@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Region Editor 2015", "Region Editor 2015.csproj", "{19EC8920-E235-489A-A1B0-BBEB2FAA918B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19EC8920-E235-489A-A1B0-BBEB2FAA918B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EC8920-E235-489A-A1B0-BBEB2FAA918B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EC8920-E235-489A-A1B0-BBEB2FAA918B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19EC8920-E235-489A-A1B0-BBEB2FAA918B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
